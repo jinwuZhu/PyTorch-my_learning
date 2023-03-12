@@ -4,7 +4,7 @@
 ## 使用
 单独运行对应的文件
 ## 安装
-运行insall.bat 安装所需库，你也可以自行安装：
+运行 install.bat 安装所需库，你也可以自行安装：
 ```
 # 安装 pytorch
 pip install pytorch torchvision torchaudio
